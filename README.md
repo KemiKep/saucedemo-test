@@ -28,7 +28,7 @@
 1. Запустите тест:
 
     ```bash
-    python test_purchase.py
+    python test_saucedemo.py
     ```
 
 ## Требования
